@@ -24,6 +24,7 @@ class _HomeScreenState extends State<HomeScreen> {
     getItem();
   }
 
+
   void getItem() {
     setState(() {
       // Filter only product-related items from the box
